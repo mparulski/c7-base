@@ -1,0 +1,10 @@
+__tests__/
+coverage/
+node_modules/
+src/
+*.code-workspace
+.babelrc
+.eslintrc.js
+CHANGELOG.md
+jest.config.js
+prettier.config.js

@@ -1,0 +1,28 @@
+{
+  "name": "c7-base",
+  "version": "0.1.0",
+  "description": "JavaScript utility library",
+  "scripts": {
+    "build": "babel -w src/ -d dist",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "7.2.3",
+    "@babel/core": "7.2.2",
+    "@babel/plugin-transform-arrow-functions": "7.2.0",
+    "@babel/preset-env": "7.2.3",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-eslint": "10.0.1",
+    "babel-jest": "23.6.0",
+    "eslint": "5.11.1",
+    "eslint-config-prettier": "3.3.0",
+    "eslint-loader": "2.1.1",
+    "eslint-plugin-import": "2.14.0",
+    "eslint-plugin-prettier": "3.0.1",
+    "jest": "23.6.0",
+    "prettier": "1.15.3",
+    "prettier-eslint": "8.8.2"
+  }
+}
