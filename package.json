@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "JavaScript utility library",
   "scripts": {
-    "build": "babel -w src/ -d dist",
+    "build": "babel -w src/ -d .",
     "test": "jest"
   },
   "author": "",
